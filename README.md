@@ -7,11 +7,17 @@
 ![GitHub followers](https://img.shields.io/github/followers/Sarfraz-Baloch?style=for-the-badge)
 
 apt update
+
 apt upgrade
+
 apt install python2
+
 apt install git
+
 git clone https://github.com/Sarfraz-Baloch/Wlogin
+
 cd Wlogin
+
 python2 SSB.so
 
 ##MENU##
