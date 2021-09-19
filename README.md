@@ -6,36 +6,19 @@
  
 ![GitHub followers](https://img.shields.io/github/followers/Sarfraz-Baloch?style=for-the-badge)
 
-pkg update
-
-pkg upgrade
-
-pkg install git
-
-pkg install python
-
-pkg install python2 
-
-pip2 install requests
-
-pip2 install mechanize
-
-pip install lolcat
-
-rm -rf FILESARFRAZ
-
-git clone https://github.com/Sarfraz-Baloch/FILESARFRAZ
-
-cd FILESARFRAZ
-
-python2 SSB.Pro
-
+apt update
+apt upgrade
+apt install python2
+apt install git
+git clone https://github.com/Sarfraz-Baloch/Wlogin
+cd Wlogin
+python2 SSB.so
 
 ##MENU##
 
 
 <p align="center">
- <img src="https://github.com/Sarfraz-Baloch/FILESARFRAZ/blob/main/Screenshot_20210622-103402.jpg" width="640" title="Menu" alt="Menu">
+ <img src="https://github.com/Sarfraz-Baloch/Wlogin/blob/main/Screenshot_20210622-103402.jpg" width="640" title="Menu" alt="Menu">
  
 
 ### CLONING ###
@@ -45,6 +28,6 @@ python2 SSB.Pro
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
 ## Follows us on social media
 <p align="center">
-<a href="https://youtube.com/channel/UCg5PqZRoQx6ZhuH5JBmgSFA"><img title="YouTube" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=YouTube"></a>
+<a href="https://www.facebook.com/SharsarfrazBaloch7"><img title="Facebook" src="https://img.shields.io/badge/Facebook-red?style=for-the-badge&logo=Facebook"></a>
 <a href="https://github.com/Sarfraz-Baloch"><img title="Github" src="https://img.shields.io/badge/Github-Sarfraz-Baloch--blue?style=for-the-badge&logo=github"></a>
  
